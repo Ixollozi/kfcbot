@@ -1,0 +1,3 @@
+
+bot_token = "5919860427:AAFhfzXkv1hJH0a1e0LgcbFAi_0C9A0qLN0"
+pay_token = "1650291590:TEST:1687346925107_hCQ9pmafhmRtw6Cw"
