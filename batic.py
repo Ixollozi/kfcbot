@@ -257,4 +257,5 @@ def got_payment(message):
     # здесь подключение к базе данных и внесение данных в таблицу
     bot.send_message(message.chat.id, 'Ваш заказ был успешным')
 
+
 bot.polling(non_stop=True)

@@ -187,4 +187,3 @@ def get_user_num_name(user_id):
     exact_user = sql.execute('SELECT name, phone_number FROM users WHERE tg_id=?;', (user_id, )).fetchone()
 
     return exact_user
-
